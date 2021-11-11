@@ -1,5 +1,5 @@
 # P1_smart_meter
-This repository contains simulation, documentation and schematics on the P1 smart meter reader project.
+This repository contains simulations, documentation and schematics on the P1 smart meter reader project.
 
 # Table of Contents
 ## 1. [Simulations]
