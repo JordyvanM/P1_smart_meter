@@ -9,8 +9,8 @@ This repository contains simulations, documentation and schematics on the P1 sma
 ### ·[PVA Dutch] plan of action
 ·[Report]
 ----------
-#### ·[Dutch]
-#### ·[English]
+####    ·[Dutch]
+####    ·[English]
 
 
 [Two powersupply switching]: https://github.com/JordyvanM/P1_smart_meter/blob/main/Simulations/Two_powersupply_switch.asc
