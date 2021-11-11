@@ -20,6 +20,7 @@ This repository contains simulations, documentation and schematics on the P1 sma
 [Simulations]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Simulations
 
 [PVA Dutch]: https://github.com/JordyvanM/P1_smart_meter/blob/main/Documentation/PvA_Crownstone_Jordy.docx
+[Report]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report
 [Dutch]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/Dutch
 [English]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/English
 
