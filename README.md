@@ -7,8 +7,8 @@ This repository contains simulations, documentation and schematics on the P1 sma
 ### ·[Opamp signal inverter]
 ## 2. Documentation
 ### ·[PVA Dutch] plan of action
-### ·[Report]
-==============
+·[Report]
+----------
 #### ·[Dutch]
 #### ·[English]
 
