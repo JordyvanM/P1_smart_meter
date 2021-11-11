@@ -3,6 +3,6 @@ This repository contains simulation, documentation and schematics on the P1 smar
 
 # Table of Contents
 ## 1. Simulations
-### ··1. Two supply voltage switching
-### ··* Opamp signal inverter
+### 1.1. Two supply voltage switching
+### 1.2. Opamp signal inverter
 ## 2. Documentation
