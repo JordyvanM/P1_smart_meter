@@ -5,13 +5,17 @@ This repository contains simulations, documentation and schematics on the P1 sma
 ## 1. [Simulations]
 ### ·[Two powersupply switching]
 ### ·[Opamp signal inverter]
+
 ## 2. Documentation
 ### ·[PVA Dutch] (plan of action)
 ·[Report] (work in progress)
 ----------
 #### ·[Dutch]
 #### ·[English]
-## 3. Sources
+
+## 3. [Software]
+
+## 4. Sources
 ### [URLS]
 
 
@@ -23,5 +27,7 @@ This repository contains simulations, documentation and schematics on the P1 sma
 [Report]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report
 [Dutch]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/Dutch
 [English]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/English
+
+[Software]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Software
 
 [URLS]: https://github.com/JordyvanM/P1_smart_meter/blob/main/Sources/URLS.md
