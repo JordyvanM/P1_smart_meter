@@ -9,9 +9,6 @@ This repository contains simulations, documentation and schematics on the P1 sma
 ## 2. [Documentation]
 ### ·[PVA Dutch] (plan of action)
 ### ·[Report] (work in progress)
-----------
-#### ·[Dutch]
-#### ·[English]
 
 ## 3. [Software]
 
@@ -28,8 +25,6 @@ This repository contains simulations, documentation and schematics on the P1 sma
 [Documentation]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation
 [PVA Dutch]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/PVA
 [Report]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report
-[Dutch]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/Dutch
-[English]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Documentation/Report/English
 
 [Software]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Software
 
