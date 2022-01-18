@@ -8,7 +8,7 @@ This repository contains simulations, documentation and schematics on the P1 sma
 
 ## 2. [Documentation]
 ### ·[PVA Dutch] (plan of action)
-### ·[Report] (work in progress)
+### ·[Report]
 
 ## 3. [Software]
 
