@@ -17,7 +17,7 @@ This repository contains simulations, documentation and schematics on the P1 sma
 
 ## 4. [PCB_project]
 
-## 4. Sources
+## 4. [Sources]
 ### [URLS]
 
 
@@ -35,4 +35,5 @@ This repository contains simulations, documentation and schematics on the P1 sma
 
 [PCB_project]: https://github.com/JordyvanM/P1_smart_meter/tree/main/PCB_project
 
+[Sources]: https://github.com/JordyvanM/P1_smart_meter/tree/main/Sources
 [URLS]: https://github.com/JordyvanM/P1_smart_meter/blob/main/Sources/URLS.md
